@@ -1,0 +1,29 @@
+{
+    "name": "full_name",
+    "birthday": "dd-mm-YYYY",
+    "address": "address",
+    "phones": [
+        "phone_1",
+        "phone_2",
+        "phone_3"
+    ],
+    "emails": [
+        "email_1",
+        "emqil_2",
+        "email_3"
+    ],
+    "notes": [
+        {
+            "date": "dd-mm-YYYY",
+            "note": "note"
+        },
+        {
+            "date": "dd-mm-YYYY",
+            "note": "note"
+        },
+        {
+            "date": "dd-mm-YYYY",
+            "note": "note"
+        }
+    ]
+}
